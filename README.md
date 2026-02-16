@@ -1,7 +1,7 @@
 # SAMP Custom Launcher  
 ตัวเรียกใช้งาน (Launcher) แบบกำหนดเองสำหรับเซิร์ฟเวอร์ San Andreas Multiplayer (SAMP)
 
-![Preview Launcher](https://via.placeholder.com/1280x720/0a0a0f/ffffff?text=Launcher+Preview)  
+![Preview Launcher](Preview.png)  
 *(ใส่ภาพตัวอย่างจริงของ launcher ตรงนี้แนะนำ)*
 
 ## คุณสมบัติหลัก
