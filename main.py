@@ -1066,7 +1066,7 @@ def main(ctx):
 
 
 if __name__ == "__main__":
-    launcher_setting = "http://127.0.0.1/launcher_setting.json"
+    launcher_setting = "$SETTINGS_LINK"
 
     data = get_config(launcher_setting)
 
