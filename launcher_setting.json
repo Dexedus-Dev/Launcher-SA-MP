@@ -1,28 +1,22 @@
 {
-    "version": "1.2",
-    "discord": "https://discord.gg/yourserver",
-    "background_image": "http://127.0.0.1/background.jpg",
-    "ICON_SERVER": "http://127.0.0.1/icon.jpg",
+    "version": "",
+    "discord": "",
+    "background_image": "",
+    "ICON_SERVER": "",
     "server_game": {
-        "ip": "168.222.20.137",
-        "port": "7777"
+        "ip": "",
+        "port": ""
     },
     "game": {
-        "download_url": "http://127.0.0.1/f.zip",
-        "sha256": "8af325a45d64eff3a724c83bdf456232384ed8eab184f0f036d65f3198ef72a1"
+        "download_url": "",
+        "sha256": ""
     },
     "news": [
         {
-            "title": "ยินดีต้อนรับสู่ SAMP Launcher!",
-            "content": "นี่คือตัวเรียกใช้งานแบบกำหนดเองสำหรับโหมดผู้เล่นหลายคนของ San Andreas โปรดติดตามการอัปเดตและคุณสมบัติใหม่ ๆ!",
-            "image": "http://127.0.0.1/icon.jpg",
-            "date": "January 1, 2024"
-        },
-        {
-            "title": "อัปเดตใหม่พร้อมใช้งาน",
-            "content": "เวอร์ชัน 1.0 พร้อมให้ดาวน์โหลดแล้ว ซึ่งมีการปรับปรุงประสิทธิภาพและแก้ไขข้อผิดพลาดต่าง ๆ",
-            "image": "http://127.0.0.1/icon.jpg",
-            "date": "February 10, 2024"
+            "title": "",
+            "content": "",
+            "image": "",
+            "date": ""
         }
     ]
 }
