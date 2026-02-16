@@ -42,28 +42,28 @@
 {
     "version": "1.2",
     "discord": "https://discord.gg/yourserver",
-    "background_image": "https://yourdomain.com/bg.jpg",
-    "ICON_SERVER": "https://yourdomain.com/server-icon.png",
+    "background_image": "http://127.0.0.1/background.jpg",
+    "ICON_SERVER": "http://127.0.0.1/icon.jpg",
     "server_game": {
         "ip": "168.222.20.137",
         "port": "7777"
     },
     "game": {
-        "download_url": "https://yourdomain.com/update/v1.2-full.zip",
+        "download_url": "http://127.0.0.1/f.zip",
         "sha256": "8af325a45d64eff3a724c83bdf456232384ed8eab184f0f036d65f3198ef72a1"
     },
     "news": [
         {
-            "title": "ยินดีต้อนรับสู่เซิร์ฟเวอร์!",
-            "content": "เซิร์ฟเวอร์เปิดใหม่ มีระบบใหม่เพียบ ร่วมสนุกกันได้เลย!",
-            "image": "https://yourdomain.com/news/welcome.jpg",
-            "date": "March 15, 2025"
+            "title": "ยินดีต้อนรับสู่ SAMP Launcher!",
+            "content": "นี่คือตัวเรียกใช้งานแบบกำหนดเองสำหรับโหมดผู้เล่นหลายคนของ San Andreas โปรดติดตามการอัปเดตและคุณสมบัติใหม่ ๆ!",
+            "image": "http://127.0.0.1/icon.jpg",
+            "date": "January 1, 2024"
         },
         {
-            "title": "อัปเดตครั้งใหญ่ V1.2",
-            "content": "เพิ่มระบบงานใหม่, แก้บั๊ก, ปรับสมดุลอาวุธ",
-            "image": "https://yourdomain.com/news/update-v12.jpg",
-            "date": "March 20, 2025"
+            "title": "อัปเดตใหม่พร้อมใช้งาน",
+            "content": "เวอร์ชัน 1.0 พร้อมให้ดาวน์โหลดแล้ว ซึ่งมีการปรับปรุงประสิทธิภาพและแก้ไขข้อผิดพลาดต่าง ๆ",
+            "image": "http://127.0.0.1/icon.jpg",
+            "date": "February 10, 2024"
         }
     ]
 }
