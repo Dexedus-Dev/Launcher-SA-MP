@@ -19,8 +19,6 @@
 
 - Windows 10 / 11 (64-bit)
 - Python 3.9+ (แนะนำ 3.11–3.12)
-- PyQt6
-- GTA San Andreas + SAMP client ที่ติดตั้งแล้ว
 
 ## ขั้นตอนการ Build
 
