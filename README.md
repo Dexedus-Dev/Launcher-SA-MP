@@ -25,8 +25,8 @@
 ## ขั้นตอนการ Build
 
 1. ตรวจสอบ version ของ python แนะนำ 3.11.5
-2. เข้าไปแก้ไขไฟล์ build.py ตามใจคุณ
-3. เปิด cmd / terminal ขึ้นมาพิมท์ `python -m venv`
+2. เข้าไปแก้ไขไฟล์ build.py ตามใจคุณ และสร้างโฟลเดอร์ assets
+3. เปิด cmd / terminal ขึ้นมาพิมท์ `python -m venv venv`
 4. `pip install -r requirements.txt`
 5. จากนั้นสามารถ `python build.py` ได้เลย
 
