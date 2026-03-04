@@ -3,7 +3,17 @@
 
 ![Preview Launcher](image.png)  
 
-![Repo Views](https://komarev.com/ghpvc/?username=Dexedus-Dev&repo=Launcher-SA-MP&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dexedus-Dev&repo=Launcher-SA-MP&label=Repository%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Dexedus-Dev/Launcher-SA-MP?style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/Dexedus-Dev/Launcher-SA-MP?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/Dexedus-Dev/Launcher-SA-MP?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/Dexedus-Dev/Launcher-SA-MP?style=for-the-badge">
+</p>
+
 
 ## คุณสมบัติหลัก
 
