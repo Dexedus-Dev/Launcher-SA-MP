@@ -67,3 +67,8 @@ certutil -hashfile "ที่อยู่ของไฟล์เกม" SHA256
     ]
 }
 ```
+
+# แจกโดย
+Github: [Dexedus-Dev](https://github.com/Dexedus-Dev)
+
+Facebook: [zane.Xz1](https://www.facebook.com/share/1BNtMGPK9A/)
