@@ -2,7 +2,8 @@
 ตัวเรียกใช้งาน (Launcher) แบบกำหนดเองสำหรับเซิร์ฟเวอร์ San Andreas Multiplayer (SAMP)
 
 ![Preview Launcher](image.png)  
-*(ใส่ภาพตัวอย่างจริงของ launcher ตรงนี้แนะนำ)*
+
+![Repo Views](https://komarev.com/ghpvc/?username=Dexedus-Dev&repo=Launcher-SA-MP&color=blue)
 
 ## คุณสมบัติหลัก
 
